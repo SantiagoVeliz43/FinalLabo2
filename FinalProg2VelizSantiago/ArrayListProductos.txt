@@ -1,0 +1,8 @@
+001|2|Sancor|Leche 1lt|2341.0|34
+
+002|1|Lego|Piezas para armar|23423.0|32
+
+003|2|Manfrey|Yogurt 1lt|2342.0|42
+
+004|1|Mattel|Barbie|23131.0|12
+

@@ -1,0 +1,4 @@
+002|1|Lego|Piezas para armar|23423.0|32|Plastico
+
+004|1|Mattel|Barbie|23131.0|12|Plastico
+
